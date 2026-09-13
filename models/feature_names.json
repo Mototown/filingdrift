@@ -1,0 +1,13 @@
+[
+  "revenue_yoy",
+  "net_income_yoy",
+  "asset_growth",
+  "leverage",
+  "current_ratio",
+  "margin",
+  "risk_keyword_density",
+  "uncertainty_score",
+  "mom_21d",
+  "vol_21d",
+  "mom_63d"
+]
